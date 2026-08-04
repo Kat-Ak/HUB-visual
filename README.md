@@ -1,15 +1,19 @@
 # 🎨 Galeria de Identidade Visual Estratégica
 
-Este repositório centraliza os ativos visuais (banners e ícones) que compõem minha presença digital no GitHub e LinkedIn. Cada elemento foi curado para refletir um posicionamento **"beyond-tech"**, unindo estética corporativa premium à clareza organizacional.
+Este repositório centraliza os ativos visuais que compõem minha presença digital, garantindo que as mídias incorporadas ao meu portfólio no GitHub sejam facilmente localizadas e organizadas em uma fonte única.
 
-## 📂 Estrutura do Repositório
-Para garantir a **prevenção de inconsistências** e facilitar a manutenção, o projeto segue a organização abaixo:
-- `/banners-perfil/`: Artes focadas em Visão Estratégica e olhar humano.
-- `/banners-hub/`: Artes conceituais sobre o Prisma de Curadoria (transformação do caos em ordem).
-- `/icones-linkedin/`: Avatares e selos minimalistas para suporte de marca.
+## 🧬 Estrutura do Repositório
+Organização sistêmica desenhada para sustentar a consistência estética e a prontidão de acesso aos ativos:
+-   🗂️ [`badges-artigos_e_projetos`](./badges-artigos_e_projetos) -> Insígnias de artigos, badges de conclusão de projetos e Bootcamps.
+-   🗂️ [`banners-hub`](./banners-hub) -> Artes e elementos focados sob o prisma da curadoria.
+-   🗂️ [`banners-perfil`](./banners-perfil) -> Composições visuais de posicionamento tático para o meu perfil profissional.
+-   🗂️ [`presenca-digital`](./presenca-digital) -> Avatares, assinaturas e selos de identidade voltados a ecossistemas corporativos.
 
-## 🧠 Metodologia de Criação
-As imagens foram desenvolvidas utilizando **Inteligência Artificial (IA)** através de um processo de **Calibragem Interativa por Camadas**. Esta técnica permite que a tecnologia atue como um exponencial para o discernimento humano, garantindo que o resultado final possua o refino e o acabamento necessários para o suporte estratégico de alto nível.
+## ⚛️ Metodologia de Criação
+As imagens integradas a esta galeria foram desenvolvidas utilizando Inteligência Artificial através de um método de **Calibragem Interativa por Camadas**. Este processo permite que a tecnologia atue como um exponencial para o discernimento humano, garantindo que o resultado final possua o refino técnico da IA, convertendo fluxos informacionais complexos em narrativas visuais claras. O resultado é fundamentado em princípios de minimalismo estratégico e simetria funcional, garantindo uma presença digital corporativa premium e de alto impacto.
 
 ---
 *Foco: Clareza | Precisão | Organização*
+
+---
+🔗 **Navegação:** [Acesse meu HUB PRINCIPAL de Soluções Estratégicas](https://github.com/Kat-Ak/hub_projetos-DIO) | ⬅️ [Voltar ao Perfil Geral](https://github.com/Kat-Ak)
