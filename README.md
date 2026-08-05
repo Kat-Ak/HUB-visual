@@ -40,4 +40,4 @@ As ```5 composições personalizadas (perfil, hub e artigos autorais)```, ilustr
 *Foco: Clareza \| Precisão \| Organização*
 
 ---
-🔗 **Navegação:** Acesse meu [HUB PRINCIPAL de Soluções Estratégicas](https://github.com/Kat-Ak/hub_projetos-DIO) | ⬅️ Voltar ao [Perfil Geral](https://github.com/Kat-Ak)
+🔗 **Navegação:** Acesse [meu HUB PRINCIPAL de Projetos & Soluções Estratégicas](https://github.com/Kat-Ak/hub_projetos-DIO) | ⬅️ Voltar ao [Perfil Geral](https://github.com/Kat-Ak)
