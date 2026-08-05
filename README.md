@@ -37,11 +37,11 @@ As ```5 composições personalizadas (perfil, hub e artigos autorais)```, ilustr
 *Nota: Os logotipos institucionais de terceiros, marcas comerciais e insígnias oficiais de certificação e bootcamps pertencem legalmente às suas respectivas instituições e foram organizados aqui apenas para fins de portfólio acadêmico e profissional.*
 
 ---
-*Foco: Clareza \| Precisão \| Organização*
+### *Foco: Clareza \| Precisão \| Organização*
 
 ---
 
-#### 🗃️ Conheça o 👉 [🌌 HUB PRINCIPAL | Projetos & Soluções](https://github.com/Kat-Ak/HUB-principal-projetos_e_solucoes)  | ⬅️ Voltar ao [Perfil Geral](https://github.com/Kat-Ak)
+### 🗃️ Conheça o 👉 [🌌 HUB PRINCIPAL | Projetos & Soluções](https://github.com/Kat-Ak/HUB-principal-projetos_e_solucoes)  | ⬅️ Voltar ao [Perfil Geral](https://github.com/Kat-Ak)
 
-#### 📫 **Conecte-se comigo:** &nbsp; <a href="https://github.com/Kat-Ak" target="_blank"><img src="https://github.com/Kat-Ak/galeria-visual/blob/main/presenca-digital/GitHub-logo.png?raw=true" alt="GitHub" height="25"></a> &nbsp;<a href="https://www.linkedin.com/in/katia-akamoto-home-office" target="_blank"><img src="https://github.com/Kat-Ak/galeria-visual/blob/main/presenca-digital/Linkedin-in-logo.png?raw=true" alt="LinkedIn" height="25"></a>&nbsp;<a href="https://web.dio.me/users/katiaakamoto" target="_blank"><img src="https://github.com/Kat-Ak/galeria-visual/blob/main/presenca-digital/Dio-logo.png?raw=true" alt="DIO" height="25"></a>
+### 📫 **Conecte-se comigo:** &nbsp; <a href="https://github.com/Kat-Ak" target="_blank"><img src="https://github.com/Kat-Ak/galeria-visual/blob/main/presenca-digital/GitHub-logo.png?raw=true" alt="GitHub" height="25"></a> &nbsp;<a href="https://www.linkedin.com/in/katia-akamoto-home-office" target="_blank"><img src="https://github.com/Kat-Ak/galeria-visual/blob/main/presenca-digital/Linkedin-in-logo.png?raw=true" alt="LinkedIn" height="25"></a>&nbsp;<a href="https://web.dio.me/users/katiaakamoto" target="_blank"><img src="https://github.com/Kat-Ak/galeria-visual/blob/main/presenca-digital/Dio-logo.png?raw=true" alt="DIO" height="25"></a>
 </p>
