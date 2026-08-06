@@ -4,20 +4,20 @@ Este acervo funciona como a infraestrutura central de apoio para os elementos vi
 
 ## 🧬 Estrutura do Repositório
 Um guia simples projetado para organizar de forma fluída o acesso as mídias:
--   🗂️ [`badges-artigos_e_projetos`](./badges-artigos_e_projetos) -> Evidências de aprendizado contínuo e evolução em novas tecnologias.
--   🗂️ [`banners-hub`](./banners-hub) -> Elementos de síntese gráfica desenhados para otimizar a experiência de leitura.
--   🗂️ [`banners-perfil`](./banners-perfil) -> Composições de posicionamento e identidade profissional.
--   🗂️ [`presenca-digital`](./presenca-digital) -> Selos e conexões de ecossistemas e redes corporativas.
+🗂️ [`badges-artigos_e_projetos`](./badges-artigos_e_projetos) -> Evidências de aprendizado contínuo e evolução em novas tecnologias.
+🗂️ [`banners-hub`](./banners-hub) -> Elementos de síntese gráfica desenhados para otimizar a experiência de leitura.
+🗂️ [`banners-perfil`](./banners-perfil) -> Composições de posicionamento e identidade profissional.
+🗂️ [`presenca-digital`](./presenca-digital) -> Selos e conexões de ecossistemas e redes corporativas.
 
 ## 🖼️ Painel Funcional de Criações Digitais
+
 ### O Sentido por Trás das Imagens
 
 Compartilho o conceito estrutural deste acervo. Cada item demonstra como o cruzamento de tecnologia e uma visão ampla pode transformar informações dispersas em um panorama interessante e harmonioso:
 
-
 | Área de Aplicação | Prévia Visual | Conceito & Intenção Estratégica |
 | :--- | :---: | :--- |
-| **Apresentação&nbsp;Pessoal**<br> perfil&nbsp;&amp;&nbsp;avatar&nbsp;autoral<br> `precisão & equilíbrio [1]` | <img src="./banners-perfil/avatar-perfil-precisao_e_equilibrio_v3.png" width="50" alt="Avatar Perfil Precisão & Equilíbrio" style="border-radius: 50%;"> | Monograma geométrico K-A esculpido em cristal translúcido. O losango dourado central atua como o ponto de equilíbrio, unindo a precisão analítica de processos ao frescor de inovação da IA. |
+| **Apresentação&nbsp;Pessoal**<br> perfil&nbsp;&amp;&nbsp;avatar&nbsp;autoral<br> `precisão & equilíbrio [1]` | <img src="./banners-perfil/avatar-perfil-precisao_e_equilibrio_v3.png" width="100" alt="Avatar Perfil Precisão & Equilíbrio" style="border-radius: 100%;"> | Monograma geométrico K-A esculpido em cristal translúcido. O losango dourado central atua como o ponto de equilíbrio, unindo a precisão analítica de processos ao frescor de inovação da IA. |
 | **Apresentação&nbsp;Pessoal**<br> perfil&nbsp;&amp;&nbsp;ilustração&nbsp;autoral<br> `visão [2]` | <img src="./banners-perfil/banner-perfil-visao_clareza_e_estrutura_v1.png" width="845" alt="Banner Perfil Visão Clareza Estrutura"> | Arquitetura estética estrutural de uma ponte sutil entre a clareza técnica e o fator humano. |
 | **Hub&nbsp;Principal&nbsp;de&nbsp;Projetos**<br> síntese&nbsp;de&nbsp;conteúdo<br> ilustração&nbsp;autoral<br> `prisma da curadoria [3]` |<img src="./banners-hub/banner-hub_de_projetos-prisma-curadoria-fundo_escuro_v3.png" width="745" alt="Banner Hub Projetos"> | Simbologia do prisma da curadoria como simplificação do complexo (caos em ordem). Uma proposta prática para transformar ideias densas em um roteiro funcional e atraente. |
 | **Presença&nbsp;Digital**<br> pontes&nbsp;de&nbsp;interação | <img src="./presenca-digital/GitHub-logo.png" width="25" alt="GitHub Logo"> &nbsp; <img src="./presenca-digital/Linkedin-in-logo.png" width="35" alt="LinkedIn Logo"> &nbsp; <img src="./presenca-digital/Dio-logo.png" width="35" alt="Dio Logo"> | Integração sutil de canais, comunidades de tecnologia e redes de negócios profissionais. |
@@ -28,6 +28,7 @@ Compartilho o conceito estrutural deste acervo. Cada item demonstra como o cruza
 | **Artigo&nbsp;&amp;&nbsp;Arte&nbsp;Autoral**<br> ilustração&nbsp;complementar<br> `camadas flutuantes [6]` | <img src="./badges-artigos_e_projetos/artigo-imagem-camadas_flutuantes-ChatGPT_v2.png" width="175" alt="Camadas Flutuantes"> | *Mídia refinada via IA através da calibragem por camadas.*<br> Composição visual do processo de calibragem de megaprompts por camadas simétricas, equilibradas, ordenadas, agindo como filtros obtendo resultados mais refinados. |
 
 ## ⚛️ Metodologia de Criação
+
 A abordagem é baseada no conceito do **Minimalismo Estrutural**, eliminando excessos e evidenciando os resultados. A tecnologia através da IA atua como um exponencial para o discernimento humano. O resultado é um fluxo de trabalho flexível, adaptável a qualquer desafio e focado em gerar soluções inteligentes e fora do óbvio.
 
 ## ✨ Inspiração e Uso da Comunidade <img src="./presenca-digital/GitHub-logo.png" height="24px" valign="middle" alt="GitHub Logo">
@@ -42,11 +43,16 @@ As `6 composições personalizadas (perfil, hub e artigos autorais)`, ilustram m
 ### *Foco: Clareza \| Precisão \| Organização*
 
 ---
-
 ### 🗃️ Conheça o 👉 [🌌 HUB PRINCIPAL | Projetos & Soluções](https://github.com/Kat-Ak/HUB-principal-projetos_e_solucoes)  | ⬅️ Voltar ao [Perfil Geral](https://github.com/Kat-Ak)
+
+`...................................................................................................................................................`
+
+### Idealização & Estruturação:</b> <img src="./banners-perfil/avatar-perfil-precisao_e_equilibrio_v3.png" alt="Avatar Perfil Precisão & Equilíbrio" alt="Kat-Ak" height="30"> <b> <a href="https://github.com/Kat-Ak">[Katia Harumi Akamoto]
+
+`____________________________________________________________________________________________________________________________________________________`
+
 
 ### 📫 **Conecte-se comigo:** &nbsp; <a href="https://github.com/Kat-Ak" target="_blank"><img src="https://github.com/Kat-Ak/galeria-visual/blob/main/presenca-digital/GitHub-logo.png?raw=true" alt="GitHub" height="25"></a> &nbsp;<a href="https://www.linkedin.com/in/katia-akamoto-home-office" target="_blank"><img src="https://github.com/Kat-Ak/galeria-visual/blob/main/presenca-digital/Linkedin-in-logo.png?raw=true" alt="LinkedIn" height="25"></a>&nbsp;<a href="https://web.dio.me/users/katiaakamoto" target="_blank"><img src="https://github.com/Kat-Ak/galeria-visual/blob/main/presenca-digital/Dio-logo.png?raw=true" alt="DIO" height="25"></a>
 </p>
 
 ---
-
