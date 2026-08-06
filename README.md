@@ -47,7 +47,7 @@ As `6 composições personalizadas (perfil, hub e artigos autorais)`, ilustram m
 
 <br>
 
-### Idealização & Estruturação:</b> <img src="./banners-perfil/avatar-perfil-precisao_e_equilibrio_v3.png" alt="Avatar Perfil Precisão & Equilíbrio" alt="Kat-Ak" height="30"> <b> <a href="https://github.com/Kat-Ak">[Katia Harumi Akamoto]
+### Idealização & Estruturação:</b> <img src="./banners-perfil/avatar-perfil-precisao_e_equilibrio_v9.png" alt="Avatar Perfil Precisão & Equilíbrio" alt="Kat-Ak" height="30"> <b> <a href="https://github.com/Kat-Ak">[Katia Harumi Akamoto]
 
 <br>
 
