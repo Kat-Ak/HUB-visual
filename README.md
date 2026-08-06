@@ -45,14 +45,20 @@ As `6 composições personalizadas (perfil, hub e artigos autorais)`, ilustram m
 ---
 ### 🗃️ Conheça o 👉 [🌌 HUB PRINCIPAL | Projetos & Soluções](https://github.com/Kat-Ak/HUB-principal-projetos_e_solucoes)  | ⬅️ Voltar ao [Perfil Geral](https://github.com/Kat-Ak)
 
-`...................................................................................................................................................`
+<br>
 
 ### Idealização & Estruturação:</b> <img src="./banners-perfil/avatar-perfil-precisao_e_equilibrio_v3.png" alt="Avatar Perfil Precisão & Equilíbrio" alt="Kat-Ak" height="30"> <b> <a href="https://github.com/Kat-Ak">[Katia Harumi Akamoto]
 
-`____________________________________________________________________________________________________________________________________________________`
-
+<br>
 
 ### 📫 **Conecte-se comigo:** &nbsp; <a href="https://github.com/Kat-Ak" target="_blank"><img src="https://github.com/Kat-Ak/galeria-visual/blob/main/presenca-digital/GitHub-logo.png?raw=true" alt="GitHub" height="25"></a> &nbsp;<a href="https://www.linkedin.com/in/katia-akamoto-home-office" target="_blank"><img src="https://github.com/Kat-Ak/galeria-visual/blob/main/presenca-digital/Linkedin-in-logo.png?raw=true" alt="LinkedIn" height="25"></a>&nbsp;<a href="https://web.dio.me/users/katiaakamoto" target="_blank"><img src="https://github.com/Kat-Ak/galeria-visual/blob/main/presenca-digital/Dio-logo.png?raw=true" alt="DIO" height="25"></a>
 </p>
 
----
+
+
+
+════════════════════════════════════════════════════════════
+
+ `.....................................................................................................................................`
+
+    `_____________________________________________________________________________________________________________________________________`
